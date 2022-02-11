@@ -1,7 +1,6 @@
 #skip commiting the compiled files
 *.gbl
 *.pyc
-*.ipynb
 *.JPEG
 *.png
 *.xls

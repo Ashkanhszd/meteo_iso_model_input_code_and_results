@@ -3,6 +3,7 @@
 *.pyc
 *.ipynb
 *.JPEG
+*.png
 *.xls
 *.xlsx
 *.JPG
@@ -11,7 +12,17 @@
 *.zip
 *.csv
 *.pkl
+*.html
 *.code-workspace
 .vscode/
 __pycache__/
 .ipynb_checkpoints/
+pysplit_funcs_for_meteo_model.py
+change_meteo_file_names.py
+gen_traj_prediction.py
+all_data_auto_filtered
+all_data_auto_IQR
+all_data_no_filter
+manual_filtered_data
+manual_filtered_data_v2
+manual_filtered_data_v3
